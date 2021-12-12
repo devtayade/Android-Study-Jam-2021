@@ -1,0 +1,54 @@
+*  Create your first app
+In this task you'll create an Android app using a project template provided by Android Studio.
+
+1. Project templates
+In Android Studio, a project template is an Android app that has all the necessary parts, but doesn't do much.
+The purpose is to help you get started faster and save you some work. Some examples of templates in Android Studio are an app with a map, 
+and an app with multiple screens.
+
+2. Create an Empty Activity project
+In these steps you'll create a new Android Studio project using the Empty Activity project template for your new app.
+
+3. Start Android Studio (if it's not already open) by clicking the Android Studio icon 815d56ac706c78d4.png.
+The Welcome to Android Studio window displays.
+
+4. In the Welcome to Android Studio window, click + Start a new Android Studio project.
+The Create New Project window opens with a list of templates provided by Android Studio.
+
+5. Click the tabs at the top and scroll through the templates to get an idea of what you could do! There are templates for many different types of devices 
+(such as phones, tablets, and watches), and different types of apps (apps with scrollable screens, apps with maps, and apps with fancy navigation).
+
+6.At the top left of the window, click the Phone and Tablet tab.
+In the top row, click the Empty Activity template to select it as the template for your project.
+
+7.The Empty Activity template is the simplest template that can be used to create an app. It has a single screen and displays a simple "Hello World!" message.
+
+8.At the bottom of the window, click Next. The Create New Project dialog opens.
+
+9. configure as follows - 
+Configure your project as follows:
+
+Name - is the name of your app. In the box below Name, enter Happy Birthday as the name for your project.
+
+Package name - is the name used by the Android system to uniquely identify your app.
+
+Usually, this defaults to the name of your organization followed by the name of the app, all in lowercase (in this case "com.example.happybirthday").
+Save location is the location where all the files related to your project are saved. 
+Take a note of where that is on your computer, so you can find your files. You can leave the save location also as is for now.
+
+Language defines which programming language you want to use for your project.
+Make sure the Language is Kotlin.
+
+Minimum SDK indicates the minimum version of Android that your app can run on. Select API 19: Android 4.4 (KitKat)from the dropdown list.
+
+10. In the Create New Project window, make sure Use legacy android.support libraries is unchecked. Click the question mark if you want to know more about this.
+
+11. Click Finish.
+
+12. When you first open Android Studio, you'll see three windows:
+
+(1) The Project window shows the files and folders of your project.
+
+(2) The Editing window is for editing code.
+
+(3) The What's New window shows news and useful tips.
